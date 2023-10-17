@@ -1,4 +1,4 @@
-# DIFFUSION MODEL ASSISTED SUPERVISED LEARNING OF GENERATIVE MODELS FOR DENSITY ESTIMATION
+# DIFFUSION GENERATIVE MODELS FOR DENSITY ESTIMATION
 
 ## Tabular Data Code for Paper ""
   - The corresponding data is on Dropbox https://www.dropbox.com/scl/fo/bi3pywn9oxmzwkf00tix4/h?rlkey=kwpxbzch1go3y3hqcp6o2m26s&dl=0.
